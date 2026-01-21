@@ -23,7 +23,7 @@ def get_headers(token):
             "Expect": "100-continue",
             "X-Unity-Version": "2018.4.11f1",
             "X-GA": "v1 1",
-            "ReleaseVersion": "OB51",
+            "ReleaseVersion": "OB52",
         }
 
 def encrypt_message(data):
@@ -97,4 +97,4 @@ if __name__ == "__main__":
 
     
 #URL_ENPOINTS ="http://127.0.0.1:5000/like?uid=13002831333&server=me"
-#credits : "https://great.thug4ff.com/"
+#credits : "https://great.mahi.com/"
